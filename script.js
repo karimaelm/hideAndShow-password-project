@@ -10,5 +10,3 @@ eyeicon.onclick = function () {
     eyeicon.src = "eye-close.png";
   }
 };
-
-//10:40

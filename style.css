@@ -35,3 +35,12 @@ body {
   width: 35px;
   cursor: pointer;
 }
+footer {
+  text-align: center;
+  font-size: 18px;
+  color: rgba(208, 193, 193, 0.7);
+}
+
+a {
+  color: white;
+}
